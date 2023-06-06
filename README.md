@@ -1,2 +1,5 @@
 # hellodota
-a simple statistical analysis for data
+---
+
+### 简介
+这是一个简单的Dota2数据统计工具，可以帮助你快速找到罪犯和赵云
